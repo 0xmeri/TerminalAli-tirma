@@ -1,0 +1,17 @@
+Yeni bir proje oluşturma
+Terminalinizi veya komut satırı uygulamanızı bilgisayarınızda açın. 
+Terminalinizde, Token20 adlı yeni bir klasör oluşturun. Bunu yapmak için mkdir Token20 komutunu çalıştırın. 
+Genellikle bu komutu, diğer tüm geliştirme projelerimi depoladığım Projeler adlı klasörde çalıştırırım.
+Token20 adlı klasöre gidin. (cd Token20 komutunu çalıştırın.)
+Yeni bir proje başlatmak için truffle init komutunu çalıştırın.
+Projenizin başlatılmasını bekleyin ve sonra projeyi Visual Studio Code’da açın.
+Projeyi başlatmak için Truffle kullandıktan sonra aşağıdaki çıkışı görmeniz gerekir:
+$ mkdir Token20
+$ cd Token20/
+$ truffle init
+✔ Preparing to download box
+✔ Downloading
+✔ cleaning up temporary files
+✔ Setting up box
+$ ls
+contracts               migrations              test                    truffle-config.js 
